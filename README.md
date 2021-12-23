@@ -33,15 +33,18 @@
 ## 🚀 Statistics
 
 <!-- using instance: https://github-readme-stats.vercel.app is now https://minituff-github-readme-stats.vercel.app -->
-<a href="https://wakatime.com/@wissing" title="WakaTime Statistics"><img align="center" width="490" alt="wissing | WakaTime" src="https://minituff-github-readme-stats.vercel.app/api/wakatime?username=wissing&langs_count=18&layout=compact&theme=gruvbox"/></a>
+<center> <a href="https://wakatime.com/@wissing" title="WakaTime Statistics"><img align="center" width="490" alt="wissing | WakaTime" src="https://minituff-github-readme-stats.vercel.app/api/wakatime?username=wissing&layout=compact&theme=gruvbox"/></a> </center>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WissingChen&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<br>
+
+<center title="Wissing's GitHub stats" href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=WissingChen&count_private=true&show_icons=true&theme=gruvbox"> </center>
 
 ## 🧮 Streak
 
-<p href="https://github.com/anuraghazra/github-readme-stats">
+<center href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=WissingChen&theme=gruvbox&hide_rank=false&border_radius=10&line_height=28&hide_border=true&text_color=a3a3a3"/>
-</p>
+</center>
 
 ## ⏳ Contribution Graph
 
