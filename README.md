@@ -35,8 +35,6 @@ Feel free to explore my repositories and reach out if you're interested in colla
 
  <br>
 
-</div>
-
 <br>
 <br>
 
